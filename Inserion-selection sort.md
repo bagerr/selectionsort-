@@ -21,7 +21,11 @@ Problem
 
 O(n^2)
 
+Problem
+
 -Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+
+Çözüm
 
 [2,6,16,18,22,27] sıralanma sonucu 18 sayısı ortada kaldığı için Average Case kapsamına girer.
 
