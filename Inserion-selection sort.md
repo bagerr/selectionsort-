@@ -5,6 +5,7 @@ Problem
 -Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Çözüm
+
 [16,22,27,2,18,6]  
 
 [2,16,22,27,18,6] 
@@ -13,7 +14,11 @@ Problem
 
 [2,6,16,18,22,27]
 
+Problem
+
 -Big-O gösterimi
+
+Çözüm
 
 O(n^2)
 
