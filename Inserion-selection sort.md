@@ -1,6 +1,4 @@
-git remote add origin https://github.com/bagerr/selectionsort-.git
-git branch -M main
-git push -u origin main
+
 
 Problem
 -[22,27,16,2,18,6] -> Insertion Sort
