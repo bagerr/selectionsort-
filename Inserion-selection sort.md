@@ -24,7 +24,7 @@ O(n^2)
 
 -Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
-[2,6,16,18,22,27] sıralanm sonucu 18 sayısı ortada kaldığı için Avarage Case kapsamına girer.
+[2,6,16,18,22,27] sıralanma sonucu 18 sayısı ortada kaldığı için Avarage Case kapsamına girer.
 
 
 
